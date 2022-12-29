@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Starting Point</string>
     <string name="hello">Hello!</string>
+    <string name="home_message">Welcome to the application</string>
+    <string name="copyright">2022 All right reserved</string>
+    <string name="enter">enter</string>
+    <string name="dashboard">dashboard</string>
 </resources>
