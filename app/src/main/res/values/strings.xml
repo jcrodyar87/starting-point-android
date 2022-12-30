@@ -5,4 +5,7 @@
     <string name="copyright">2022 All right reserved</string>
     <string name="enter">enter</string>
     <string name="dashboard">dashboard</string>
+    <string name="back">back</string>
+    <string name="login">Login</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
 </resources>

@@ -13,5 +13,11 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
         <item name="android:textViewStyle">@style/description</item>
+        <item name="android:buttonStyle">@style/btn_normal</item>
+    </style>
+
+    <style name="Theme.StartingPoint.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
     </style>
 </resources>
